@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040303
+# Name: Poornima J
+# Date:19/11/2026
 
 
 # AIM:
@@ -47,6 +47,10 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+ 
+<img width="615" height="433" alt="Screenshot 2026-11-19 152533"  />
+
+
 
 
 
@@ -67,6 +71,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
+<img width="545" height="382" alt="Screenshot 2026-11-19 152700" src="https://github.com/user-attachments/assets/0f2afb01-e2c8-413c-bb83-fea58faad2e7" />
 
 
 
